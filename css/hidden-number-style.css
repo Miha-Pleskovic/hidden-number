@@ -1,0 +1,19 @@
+body{
+    background-color: #d5f9d5;
+    text-align: center;
+}
+
+input {
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+button {
+    height: 40px;
+    width: 100px;
+    border-radius: 2px;
+}
